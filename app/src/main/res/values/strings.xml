@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PQA Security v1.5</string>
+    <string name="title" translatable="false">PQA Security</string>
+    <string name="dica">CPF</string>
+    <string name="cpf">Enter your CPF below</string>
+    <string name="text_Sw">Remember the CPF</string>
+    <string name="Entrar">Enter</string>
+    <string name="Digital">Come in with digital</string>
+    <string name="Oximetria">Oximeter</string>
+</resources>
