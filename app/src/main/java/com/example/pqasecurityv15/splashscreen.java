@@ -8,6 +8,7 @@ import android.view.WindowManager;
 
 public class splashscreen extends AppCompatActivity {
 
+
     @Override
     protected void onCreate (Bundle savedInstaceState){
         super.onCreate(savedInstaceState);
@@ -23,7 +24,9 @@ public class splashscreen extends AppCompatActivity {
                 startActivity(new Intent(getBaseContext(), MainActivity.class));
                 finish();
             }
-        }, 5000);
+        }, 3000);
+
+
 
     }
 }

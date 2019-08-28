@@ -4,8 +4,8 @@
     <string name="title" translatable="false">PQA Security</string>
     <string name="cpf">Digite abaixo seu CPF</string>
     <string name="dica">CPF</string>
-    <string name="text_Sw">Lembre o CPF</string>
+    <string name="text_Sw">Guardar meu CPF</string>
     <string name="Entrar">Entrar</string>
-    <string name="Digital">Entar com a digital</string>
+    <string name="Digital">Usar a biometria</string>
     <string name="Oximetria">Oximetria</string>
 </resources>

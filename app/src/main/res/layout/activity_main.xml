@@ -17,19 +17,14 @@
         android:id="@+id/texto"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/cpf"
-        android:layout_marginTop="100dp"
-        android:textSize="20dp"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/dica"
         android:textStyle="bold"
-        android:inputType="number"/>
+        android:inputType="number"
+        android:layout_marginTop="60dp"/>
  <LinearLayout
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
@@ -55,7 +50,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Digital"
-            android:id="@+id/digital"/>
+            android:id="@+id/btn_digital" />
 
         <Button
             android:layout_width="wrap_content"

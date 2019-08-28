@@ -3,8 +3,8 @@
     <string name="title" translatable="false">PQA Security</string>
     <string name="dica">CPF</string>
     <string name="cpf">Enter your CPF below</string>
-    <string name="text_Sw">Remember the CPF</string>
-    <string name="Entrar">Enter</string>
-    <string name="Digital">Come in with digital</string>
+    <string name="text_Sw">Remember CPF</string>
+    <string name="Entrar">Sing in</string>
+    <string name="Digital">Use Fingerprint</string>
     <string name="Oximetria">Oximeter</string>
 </resources>
