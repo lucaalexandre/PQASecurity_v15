@@ -7,4 +7,6 @@
     <string name="Entrar">Sing in</string>
     <string name="Digital">Use Fingerprint</string>
     <string name="Oximetria">Oximeter</string>
+    <string name="fingerprint">Place your finger on the biometric reader</string>
+    <string name="info">Fingerprint Authentication</string>
 </resources>

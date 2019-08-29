@@ -8,4 +8,6 @@
     <string name="Entrar">Entrar</string>
     <string name="Digital">Usar a biometria</string>
     <string name="Oximetria">Oximetria</string>
+    <string name="fingerprint">Posicione o seu dedo no leitor biométrico</string>
+    <string name="info">Autenticação Biométrica</string>
 </resources>
