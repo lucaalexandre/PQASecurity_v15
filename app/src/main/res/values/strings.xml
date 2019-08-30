@@ -9,4 +9,5 @@
     <string name="Oximetria">Oximeter</string>
     <string name="fingerprint">Place your finger on the biometric reader</string>
     <string name="info">Fingerprint Authentication</string>
+    <string name="Ola">Hello client Santander, welcome!!</string>
 </resources>

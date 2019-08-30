@@ -58,7 +58,8 @@
             android:layout_height="wrap_content"
             android:text="@string/Oximetria"
             android:layout_marginLeft="40dp"
-            android:id="@+id/oximetria"/>
+            android:id="@+id/oximetria"
+            android:onClick="oximetria"/>
 
 
     </LinearLayout>

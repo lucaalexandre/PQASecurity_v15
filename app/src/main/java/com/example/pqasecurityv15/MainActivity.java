@@ -1,6 +1,7 @@
 package com.example.pqasecurityv15;
 
 
+
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -17,14 +18,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        button = (Button) findViewById(R.id.btn_digital);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, fingerprintActivity.class);
-                startActivity(intent);
-            }
-        });
+    }
+    public void digital(View view){
+        Intent intent = new Intent(this, FingerPrintActivity.class);
+        startActivity(intent);
+    }
+    public void  oximetria(View view){
+        Intent intent2 = new Intent(this, OximetriaActivity.class);
+        startActivity(intent2);
 
     }
 

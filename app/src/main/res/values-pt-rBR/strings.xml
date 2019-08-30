@@ -10,4 +10,5 @@
     <string name="Oximetria">Oximetria</string>
     <string name="fingerprint">Posicione o seu dedo no leitor biométrico</string>
     <string name="info">Autenticação Biométrica</string>
+    <string name="Ola">Olá cliente Santander, seja-vindo!!</string>
 </resources>
